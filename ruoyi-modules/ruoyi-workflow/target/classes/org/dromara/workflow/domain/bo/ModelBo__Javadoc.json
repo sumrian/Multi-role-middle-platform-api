@@ -1,0 +1,1 @@
+{"doc":" 模型请求对象\n\n @author may\n","fields":[{"name":"id","doc":" 模型id\n"},{"name":"name","doc":" 模型名称\n"},{"name":"key","doc":" 模型标识key\n"},{"name":"categoryCode","doc":" 模型分类\n"},{"name":"xml","doc":" 模型XML\n"},{"name":"svg","doc":" 模型SVG图片\n"},{"name":"description","doc":" 备注\n"}],"enumConstants":[],"methods":[],"constructors":[]}

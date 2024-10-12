@@ -1,0 +1,1 @@
+{"doc":" 流程实例Service接口\n\n @author may\n @date 2023-07-22\n","fields":[],"enumConstants":[],"methods":[{"name":"selectByBusinessKeyIn","paramTypes":["java.util.List"],"doc":" 按照业务id查询\n\n @param businessKeys 业务id\n @return 结果\n"},{"name":"selectByBusinessKey","paramTypes":["java.lang.String"],"doc":" 按照业务id查询\n\n @param businessKey 业务id\n @return 结果\n"}],"constructors":[]}

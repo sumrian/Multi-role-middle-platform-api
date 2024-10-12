@@ -1,0 +1,1 @@
+{"doc":" 任务请求对象\n\n @author may\n","fields":[{"name":"name","doc":" 任务名称\n"},{"name":"processDefinitionName","doc":" 流程定义名称\n"},{"name":"processDefinitionKey","doc":" 流程定义key\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" 流程办理监听\n\n @author may\n","fields":[{"name":"key","doc":" 流程定义key\n"},{"name":"taskDefinitionKey","doc":" 审批节点key\n"},{"name":"taskId","doc":" 任务id\n"},{"name":"businessKey","doc":" 业务id\n"}],"enumConstants":[],"methods":[],"constructors":[]}

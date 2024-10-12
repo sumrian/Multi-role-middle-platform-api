@@ -1,0 +1,1 @@
+{"doc":" 节点图形信息\n\n @author may\n","fields":[{"name":"x","doc":" x坐标\n"},{"name":"y","doc":" y坐标\n"},{"name":"height","doc":" 节点高度\n"},{"name":"width","doc":" 节点宽度\n"},{"name":"nodeId","doc":" 节点id\n"},{"name":"nodeName","doc":" 节点名称\n"}],"enumConstants":[],"methods":[],"constructors":[]}

@@ -1,0 +1,1 @@
+{"doc":" 获取并行网关执行后保留的执行实例数据\n\n @author may\n","fields":[{"name":"executionId","doc":" 当前任务执行实例id\n"}],"enumConstants":[],"methods":[],"constructors":[]}

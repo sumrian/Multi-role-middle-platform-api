@@ -1,0 +1,1 @@
+{"doc":" 任务状态枚举\n\n @author may\n","fields":[{"name":"type","doc":" 类型\n"},{"name":"desc","doc":" 描述\n"}],"enumConstants":[{"name":"STATIC","doc":" 自定义表单\n"},{"name":"DYNAMIC","doc":" 动态表单\n"}],"methods":[{"name":"findByType","paramTypes":["java.lang.String"],"doc":" 表单类型\n\n @param formType 表单类型\n"}],"constructors":[]}

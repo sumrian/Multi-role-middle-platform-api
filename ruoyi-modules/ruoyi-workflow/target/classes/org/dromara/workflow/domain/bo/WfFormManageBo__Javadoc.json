@@ -1,0 +1,1 @@
+{"doc":" 表单管理业务对象 wf_form_manage\n\n @author may\n @date 2024-03-29\n","fields":[{"name":"id","doc":" 主键\n"},{"name":"formName","doc":" 表单名称\n"},{"name":"formType","doc":" 表单类型\n"},{"name":"router","doc":" 路由地址/表单ID\n"},{"name":"remark","doc":" 备注\n"}],"enumConstants":[],"methods":[],"constructors":[]}

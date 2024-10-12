@@ -1,0 +1,1 @@
+{"doc":" 流程实例作废请求对象\n\n @author may\n","fields":[{"name":"businessKey","doc":" 业务id\n"},{"name":"deleteReason","doc":" 作废原因\n"}],"enumConstants":[],"methods":[],"constructors":[]}

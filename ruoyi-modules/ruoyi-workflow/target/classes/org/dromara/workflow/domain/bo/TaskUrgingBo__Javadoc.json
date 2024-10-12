@@ -1,0 +1,1 @@
+{"doc":" 任务催办\n\n @author may\n","fields":[{"name":"processInstanceId","doc":" 流程实例id\n"},{"name":"messageType","doc":" 消息类型\n"},{"name":"message","doc":" 催办内容（为空默认系统内置信息）\n"}],"enumConstants":[],"methods":[],"constructors":[]}

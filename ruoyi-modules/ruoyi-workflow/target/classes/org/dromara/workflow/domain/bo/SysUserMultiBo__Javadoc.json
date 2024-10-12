@@ -1,0 +1,1 @@
+{"doc":" 用户加签查询\n\n @author may\n","fields":[{"name":"userName","doc":" 人员名称\n"},{"name":"nickName","doc":" 人员名称\n"},{"name":"deptId","doc":" 部门id\n"},{"name":"taskId","doc":" 任务id\n"}],"enumConstants":[],"methods":[],"constructors":[]}

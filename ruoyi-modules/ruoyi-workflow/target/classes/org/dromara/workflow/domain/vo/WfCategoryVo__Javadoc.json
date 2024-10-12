@@ -1,0 +1,1 @@
+{"doc":" 流程分类视图对象 wf_category\n\n @author may\n @date 2023-06-27\n","fields":[{"name":"id","doc":" 主键\n"},{"name":"categoryName","doc":" 分类名称\n"},{"name":"categoryCode","doc":" 分类编码\n"},{"name":"parentId","doc":" 父级id\n"},{"name":"sortNum","doc":" 排序\n"}],"enumConstants":[],"methods":[],"constructors":[]}

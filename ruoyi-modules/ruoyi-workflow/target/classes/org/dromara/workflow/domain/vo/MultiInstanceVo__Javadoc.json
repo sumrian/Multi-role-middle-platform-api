@@ -1,0 +1,1 @@
+{"doc":" 多实例信息\n\n @author may\n","fields":[{"name":"type","doc":" 会签类型（串行，并行）\n"},{"name":"assignee","doc":" 会签人员KEY\n"},{"name":"assigneeList","doc":" 会签人员集合KEY\n"}],"enumConstants":[],"methods":[],"constructors":[]}

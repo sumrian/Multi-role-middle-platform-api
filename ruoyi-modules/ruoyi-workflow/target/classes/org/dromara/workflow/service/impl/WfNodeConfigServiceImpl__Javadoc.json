@@ -1,0 +1,1 @@
+{"doc":" 节点配置Service业务层处理\n\n @author may\n @date 2024-03-30\n","fields":[],"enumConstants":[],"methods":[{"name":"queryById","paramTypes":["java.lang.Long"],"doc":" 查询节点配置\n"},{"name":"saveOrUpdate","paramTypes":["java.util.List"],"doc":" 保存节点配置\n"},{"name":"deleteByIds","paramTypes":["java.util.Collection"],"doc":" 批量删除节点配置\n"}],"constructors":[]}

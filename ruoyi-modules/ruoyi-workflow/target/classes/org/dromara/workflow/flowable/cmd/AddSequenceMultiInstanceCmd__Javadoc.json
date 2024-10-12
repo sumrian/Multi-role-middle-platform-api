@@ -1,0 +1,1 @@
+{"doc":" 串行加签\n\n @author may\n","fields":[{"name":"executionId","doc":" 执行id\n"},{"name":"assigneeList","doc":" 会签人员集合KEY\n"},{"name":"assignees","doc":" 加签人员\n"}],"enumConstants":[],"methods":[],"constructors":[]}

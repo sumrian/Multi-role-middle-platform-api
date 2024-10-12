@@ -1,0 +1,10 @@
+org.dromara.workflow.domain.bo.WfFormManageBo
+org.dromara.workflow.domain.vo.TestLeaveVo
+org.dromara.workflow.domain.bo.WfCategoryBo
+org.dromara.workflow.domain.bo.WfDefinitionConfigBo
+org.dromara.workflow.domain.vo.WfDefinitionConfigVo
+org.dromara.workflow.domain.bo.TestLeaveBo
+org.dromara.workflow.domain.vo.WfNodeConfigVo
+org.dromara.workflow.domain.vo.WfFormManageVo
+org.dromara.workflow.domain.bo.WfNodeConfigBo
+org.dromara.workflow.domain.vo.WfCategoryVo

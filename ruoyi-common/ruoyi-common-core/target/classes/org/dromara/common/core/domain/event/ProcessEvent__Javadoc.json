@@ -1,0 +1,1 @@
+{"doc":" 总体流程监听\n\n @author may\n","fields":[{"name":"key","doc":" 流程定义key\n"},{"name":"businessKey","doc":" 业务id\n"},{"name":"status","doc":" 状态\n"},{"name":"submit","doc":" 当为true时为申请人节点办理\n"}],"enumConstants":[],"methods":[],"constructors":[]}

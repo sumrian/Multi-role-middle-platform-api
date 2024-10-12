@@ -1,0 +1,1 @@
+{"doc":" 委派任务请求对象\n\n @author may\n","fields":[{"name":"userId","doc":" 委派人id\n"},{"name":"nickName","doc":" 委派人名称\n"},{"name":"taskId","doc":" 任务id\n"}],"enumConstants":[],"methods":[],"constructors":[]}

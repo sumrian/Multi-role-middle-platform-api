@@ -1,0 +1,1 @@
+{"doc":" 查询工具\n\n @author Lion Li\n","fields":[],"enumConstants":[],"methods":[{"name":"getTask","paramTypes":["java.lang.String"],"doc":" 按照任务id查询当前任务\n\n @param taskId 任务id\n"}],"constructors":[]}
