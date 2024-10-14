@@ -33,77 +33,77 @@
           <entry name="$PROJECT_DIR$/../../../../apache-maven-3.9.8/repository/org/mapstruct/tools/gem/gem-api/1.0.0.Alpha3/gem-api-1.0.0.Alpha3.jar" />
           <entry name="$PROJECT_DIR$/../../../../apache-maven-3.9.8/repository/org/projectlombok/lombok-mapstruct-binding/0.2.0/lombok-mapstruct-binding-0.2.0.jar" />
         </processorPath>
-        <module name="ruoyi-common-job" />
-        <module name="ruoyi-job" />
-        <module name="ruoyi-system" />
-        <module name="ruoyi-common-redis" />
-        <module name="ruoyi-generator" />
-        <module name="ruoyi-common-tenant" />
-        <module name="ruoyi-common-doc" />
-        <module name="ruoyi-common-satoken" />
-        <module name="ruoyi-common-security" />
-        <module name="ruoyi-common-oss" />
-        <module name="ruoyi-common-websocket" />
-        <module name="ruoyi-common-encrypt" />
-        <module name="ruoyi-common-sensitive" />
-        <module name="ruoyi-common-excel" />
-        <module name="ruoyi-workflow" />
-        <module name="ruoyi-common-sse" />
-        <module name="ruoyi-common-log" />
-        <module name="ruoyi-admin" />
-        <module name="ruoyi-common-mybatis" />
-        <module name="ruoyi-monitor-admin" />
-        <module name="ruoyi-common-sms" />
-        <module name="ruoyi-common-json" />
-        <module name="ruoyi-common-mail" />
-        <module name="ruoyi-common-core" />
-        <module name="ruoyi-common-translation" />
-        <module name="ruoyi-common-web" />
-        <module name="ruoyi-common-ratelimiter" />
-        <module name="ruoyi-demo" />
-        <module name="ruoyi-common-idempotent" />
-        <module name="ruoyi-common-social" />
-        <module name="ruoyi-snailjob-server" />
+        <module name="snailjob-server" />
+        <module name="common-sensitive" />
+        <module name="admin" />
+        <module name="generator" />
+        <module name="common-social" />
+        <module name="common-json" />
+        <module name="demo" />
+        <module name="common-redis" />
+        <module name="common-job" />
+        <module name="common-idempotent" />
+        <module name="common-mail" />
+        <module name="common-translation" />
+        <module name="common-doc" />
+        <module name="common-security" />
+        <module name="common-encrypt" />
+        <module name="workflow" />
+        <module name="common-oss" />
+        <module name="common-ratelimiter" />
+        <module name="common-log" />
+        <module name="common-sse" />
+        <module name="common-websocket" />
+        <module name="common-mybatis" />
+        <module name="system" />
+        <module name="monitor-admin" />
+        <module name="common-excel" />
+        <module name="common-web" />
+        <module name="job" />
+        <module name="common-tenant" />
+        <module name="common-core" />
+        <module name="common-satoken" />
+        <module name="common-sms" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ruoyi-admin" options="-parameters" />
-      <module name="ruoyi-common" options="-parameters" />
-      <module name="ruoyi-common-core" options="-parameters" />
-      <module name="ruoyi-common-doc" options="-parameters" />
-      <module name="ruoyi-common-encrypt" options="-parameters" />
-      <module name="ruoyi-common-excel" options="-parameters" />
-      <module name="ruoyi-common-idempotent" options="-parameters" />
-      <module name="ruoyi-common-job" options="-parameters" />
-      <module name="ruoyi-common-json" options="-parameters" />
-      <module name="ruoyi-common-log" options="-parameters" />
-      <module name="ruoyi-common-mail" options="-parameters" />
-      <module name="ruoyi-common-mybatis" options="-parameters" />
-      <module name="ruoyi-common-oss" options="-parameters" />
-      <module name="ruoyi-common-ratelimiter" options="-parameters" />
-      <module name="ruoyi-common-redis" options="-parameters" />
-      <module name="ruoyi-common-satoken" options="-parameters" />
-      <module name="ruoyi-common-security" options="-parameters" />
-      <module name="ruoyi-common-sensitive" options="-parameters" />
-      <module name="ruoyi-common-sms" options="-parameters" />
-      <module name="ruoyi-common-social" options="-parameters" />
-      <module name="ruoyi-common-sse" options="-parameters" />
-      <module name="ruoyi-common-tenant" options="-parameters" />
-      <module name="ruoyi-common-translation" options="-parameters" />
-      <module name="ruoyi-common-web" options="-parameters" />
-      <module name="ruoyi-common-websocket" options="-parameters" />
-      <module name="ruoyi-demo" options="-parameters" />
-      <module name="ruoyi-extend" options="-parameters" />
-      <module name="ruoyi-generator" options="-parameters" />
-      <module name="ruoyi-job" options="-parameters" />
-      <module name="ruoyi-modules" options="-parameters" />
-      <module name="ruoyi-monitor-admin" options="-parameters" />
-      <module name="ruoyi-snailjob-server" options="-parameters" />
-      <module name="ruoyi-system" options="-parameters" />
+      <module name="admin" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="common-core" options="-parameters" />
+      <module name="common-doc" options="-parameters" />
+      <module name="common-encrypt" options="-parameters" />
+      <module name="common-excel" options="-parameters" />
+      <module name="common-idempotent" options="-parameters" />
+      <module name="common-job" options="-parameters" />
+      <module name="common-json" options="-parameters" />
+      <module name="common-log" options="-parameters" />
+      <module name="common-mail" options="-parameters" />
+      <module name="common-mybatis" options="-parameters" />
+      <module name="common-oss" options="-parameters" />
+      <module name="common-ratelimiter" options="-parameters" />
+      <module name="common-redis" options="-parameters" />
+      <module name="common-satoken" options="-parameters" />
+      <module name="common-security" options="-parameters" />
+      <module name="common-sensitive" options="-parameters" />
+      <module name="common-sms" options="-parameters" />
+      <module name="common-social" options="-parameters" />
+      <module name="common-sse" options="-parameters" />
+      <module name="common-tenant" options="-parameters" />
+      <module name="common-translation" options="-parameters" />
+      <module name="common-web" options="-parameters" />
+      <module name="common-websocket" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="extend" options="-parameters" />
+      <module name="generator" options="-parameters" />
+      <module name="job" options="-parameters" />
+      <module name="modules" options="-parameters" />
+      <module name="monitor-admin" options="-parameters" />
       <module name="ruoyi-vue-plus" options="-parameters" />
-      <module name="ruoyi-workflow" options="-parameters" />
+      <module name="snailjob-server" options="-parameters" />
+      <module name="system" options="-parameters" />
+      <module name="workflow" options="-parameters" />
     </option>
   </component>
 </project>
