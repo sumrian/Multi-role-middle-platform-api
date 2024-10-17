@@ -1,6 +1,6 @@
 package org.dromara.system.domain.bo;
 
-import io.github.linpeilie.AutoMapperConfig__66;
+import io.github.linpeilie.AutoMapperConfig__119;
 import io.github.linpeilie.BaseMapper;
 import org.dromara.system.domain.SysTenantPackage;
 import org.mapstruct.Mapper;
@@ -8,7 +8,7 @@ import org.mapstruct.Mapping;
 import org.mapstruct.MappingTarget;
 
 @Mapper(
-    config = AutoMapperConfig__66.class,
+    config = AutoMapperConfig__119.class,
     uses = {},
     imports = {}
 )

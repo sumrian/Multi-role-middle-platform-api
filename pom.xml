@@ -371,6 +371,11 @@
                 <version>${revision}</version>
             </dependency>
 
+            <dependency>
+                <groupId>org.dromara</groupId>
+                <artifactId>works</artifactId>
+                <version>${revision}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -379,6 +384,8 @@
         <module>common</module>
         <module>extend</module>
         <module>modules</module>
+        <module>works</module>
+
     </modules>
     <packaging>pom</packaging>
 

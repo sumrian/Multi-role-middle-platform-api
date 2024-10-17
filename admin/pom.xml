@@ -81,11 +81,7 @@
             <artifactId>generator</artifactId>
         </dependency>
 
-        <!--  demo模块  -->
-        <dependency>
-            <groupId>org.dromara</groupId>
-            <artifactId>demo</artifactId>
-        </dependency>
+
 
         <!--  工作流模块  -->
         <dependency>
@@ -103,7 +99,11 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
-
+        <dependency>
+            <groupId>org.dromara</groupId>
+            <artifactId>works</artifactId>
+            <version>${revision}</version>
+        </dependency>
         <!-- skywalking 整合 logback -->
 <!--        <dependency>-->
 <!--            <groupId>org.apache.skywalking</groupId>-->
